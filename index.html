@@ -5,16 +5,57 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <title>mychart.js chart</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <title>mychart.js chartFINAL</title>
 </head>
+
 <body>
-  <h1>Quarterly Technology implementation Review</h1>
+  <h1>Technology Implementation Review</h1>
   <h2>HappyLand School District</h2>
 
-  <div class="container">
-    <canvas id="myChart"></canvas>
 
+
+
+  <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Select Topic
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">District</a>
+    <a class="dropdown-item" href="#">Teacher</a>
+    <a class="dropdown-item" href="#">Students</a>
+  </div>
+  </div>
+<br>
+<br>
+  <p>
+    <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+      Report Description
+    </a>
+  </p>
+  <div class="collapse" id="collapseExample">
+    <div class="card card-body">
+      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+    </div>
+  </div>
+
+
+  <div class="container-fluid">
+  <h1>Hello World!</h1>
+  <p>Resize the browser window to see the effect.</p>
+  <p>The columns will automatically stack on top of each other when the screen is less than 768px wide.</p>
+  <div class="row">
+    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+    <div class="col-sm-4" style="background-color:lavenderblush;">.col-sm-4</div>
+    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+  </div>
+  </div>
+
+
+  <div class="container">
+    <canvas id="myChart" style="width: 55%; height: 250px;display: inline-block;"></canvas>
   </div>
 
   <script>
@@ -61,8 +102,9 @@
       options:{
         title:{
           display:true,
-          text:'Classroom Implemented Technology',
+          text:'District',
           fontSize: 25
+      
         },
         legend:{
           display:true,
@@ -74,9 +116,9 @@
         layout:{
           padding:{
             left: 50,
-            right: 0,
-            bottom: 0,
-            top:0
+            right: 50,
+            bottom: 50,
+            top:50
           }
         },
         tooltips:{
