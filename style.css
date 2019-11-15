@@ -1,7 +1,6 @@
-h1{
-  font-family: 'Shadows Into Light Two', cursive;
-  font-size: 48px;
-  margin-bottom: 10px;
+body{
+  max-width: 1000px;
+  margin: 3em auto;
+  background-color: #E5E7E5;
+  color: black;
 }
-
-.dropdown
