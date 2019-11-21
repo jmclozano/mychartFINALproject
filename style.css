@@ -1,6 +1,7 @@
 body{
-  max-width: 1000px;
+  max-width: 9500px;
   margin: 3em auto;
+  padding: 10px;
   background-color: #E5E7E5;
   color: black;
 }
