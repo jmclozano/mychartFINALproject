@@ -1,7 +1,6 @@
 body{
-  max-width: 9500px;
-  margin: 3em auto;
-  padding: 10px;
+  margin: 0;
+  padding: 0;
   background-color: #E5E7E5;
   color: black;
 }
