@@ -13,9 +13,37 @@
 </head>
 
 <body>
-  <h1>Technology Implementation Review</h1>
-  <h2>HappyLand School District</h2>
-
+  <!--
+  added bootstrap navbar https://getbootstrap.com/docs/4.0/components/navbar/
+  -->
+  <nav class="navbar navbar-expand-sm navbar-light bg-light">
+		<a class="navbar-brand d-flex align-items-center" href="#">
+			<img src="img/dummy.jpg" alt="" width="100" class="mr-4"/>
+			<p class="mb-0">Technology Implementation Review <br>
+				<small>HappyLand School District</small>
+			</p>
+		</a>
+		<button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
+		        aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="collapsibleNavId">
+			<ul class="navbar-nav mx-auto mt-2 mt-lg-0">
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select Topic</a>
+					<div class="dropdown-menu" aria-labelledby="dropdownId">
+						<a class="dropdown-item" href="#">District</a>
+						<a class="dropdown-item" href="#">Teacher</a>
+						<a class="dropdown-item" href="#">Students</a>
+					</div>
+				</li>
+			</ul>
+			<div class="navbar-info">
+				<a href="mailto:email@happylandschool.com">email@happylandschool.com</a>
+				<p>Tel: +1 23 456 789</p>
+			</div>
+		</div>
+	</nav>
 
 
 
