@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	
   <title>mychart.js chartFINAL</title>
 </head>
 
@@ -115,5 +115,81 @@
   </script>
 
   <script src="scripts/main.js"></script>
+
+
+  <div class="container">
+    <canvas id="myLine" style="width: 55%; height: 250px;display: inline-block;"></canvas>
+  </div>
+  <script>
+    let myChart= document.getElementById('myLine').getContext('2d');
+
+  //Global options
+  Chart.defaults.global.defaultFontFamily ='Arial';
+  Chart.defaults.global.defaultFontSize = 18;
+  Chart.defaults.global.defaultFontColor ='#777';
+
+
+    let massPopChart = new Chart(myLine, {
+      type: 'line', // bar, horizontalBar, pie, line, doughnut, radar and polarArea
+      data: {
+        labels: ['math', 'science', 'english', 'language', 'art', 'music', 'history'],
+        datasets:[{
+          label: 'Class Size',
+          data:[
+            200,
+            175,
+            131,
+            119,
+            156,
+            128,
+            177,
+         ],
+         //backgroundColor: 'green',
+         backgroundColor:[
+         'rgba(255, 99, 132, 0.6)',
+         'rgba(55, 162, 232, 0.6)',
+         'rgba(25, 199, 32, 0.6)',
+         'rgba(155, 54, 332, 0.6)',
+         'rgba(142, 119, 78, 0.6)',
+         'rgba(23, 19, 27, 0.6)',
+         'rgba(125, 88, 122, 0.6)',
+        ],
+         borderWidth:1,
+         borderColor: '#777',
+         hoverBorderWidth:2,
+         hoverBorderColor:'#000'
+        }]
+      },
+      options:{
+        title:{
+          display:true,
+          text:'District',
+          fontSize: 25
+
+        },
+        legend:{
+          display:true,
+          position: 'right',
+          labels:{
+            fontColor:'#000'
+          }
+        },
+        layout:{
+          padding:{
+            left: 50,
+            right: 50,
+            bottom: 50,
+            top:50
+          }
+        },
+        tooltips:{
+          enabled: true
+        }
+      }
+    });
+  </script>
+
+  <script src="scripts/main.js"></script>
+
 </body>
 </html>
