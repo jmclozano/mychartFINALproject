@@ -12,7 +12,7 @@ Goal: Data visualization - summarize the district’s activity on the release an
 Design and Technical reference:
 Charts - (interactive)
 Bar Chart (#)
-# of teachers that have implemented the technology/schools in the district
+#of teachers that have implemented the technology/schools in the district
 
 Process:
 This is a new project. I will use this data to reflect the school’s implementation of the technology. (data) 
