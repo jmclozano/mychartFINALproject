@@ -1,5 +1,6 @@
 # mychartFINALproject
 JMCLOZANO - Final project 5003 [charts]
+https://jmclozano.github.io/mychartFINALproject/
 
 # CLASS PROJECT - FINAL
 Visualize - data from the school’s use of technology tools in a district.
