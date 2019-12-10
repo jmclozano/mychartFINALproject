@@ -5,7 +5,7 @@ https://jmclozano.github.io/mychartFINALproject/
 # CLASS PROJECT - FINAL
 Visualize - data from the school’s use of technology tools in a district.
 > note this was version 2 of final project. I was working on resume and changed direction with the guidance of our Professor to find "what I like" and I like data =) 
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%201.png)
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/resume%20v100.png)
 
 
 # Summary:
@@ -14,8 +14,10 @@ Scenario: Director of Technology released a new product to the school district. 
 # Inspiration:
 Goal: Data visualization - summarize the district’s activity on the release and usability of the tool in each school. 
 
+Inspiration: Dashboards
 ![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%201.png)
 
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%202.png)
 
 # Design and Technical reference:
 Charts - (interactive)
