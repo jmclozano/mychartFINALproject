@@ -26,8 +26,11 @@ Bar Chart (#)
 
 ![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/code%20chart%20js.png)
 
-Sample Chart.js :: https://www.chartjs.org/samples/latest/charts/area/line-boundaries.html
-***interactive***
+Sample Chart.js :: 
+https://www.chartjs.org/samples/latest/charts/area/line-boundaries.html
+https://www.chartjs.org/samples/latest/charts/bar/vertical.html
+***interactive charts***
+
 ![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/sample%20chart%20js.png)
 
 
