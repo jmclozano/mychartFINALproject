@@ -24,6 +24,12 @@ Charts - (interactive)
 Bar Chart (#)
 #of teachers that have implemented the technology/schools in the district
 
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/code%20chart%20js.png)
+
+Sample Chart.js ::
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/sample%20chart%20js.png)
+
+
 # Process:
 This is a new project. I will use this data to reflect the school’s implementation of the technology. (data) 
 
