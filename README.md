@@ -4,6 +4,7 @@ https://jmclozano.github.io/mychartFINALproject/
 
 # CLASS PROJECT - FINAL
 Visualize - data from the school’s use of technology tools in a district.
+> note this was version 2 of final project. I was working on resume and changed direction with the guidance of our Professor to find "what I like" and I like data =) 
 
 # Summary:
 Scenario: Director of Technology released a new product to the school district. The Director needs to validate the new technology is beneficial to the district and present it to the administration. Data visualization will be updated to the school’s website for the administration meeting. 
