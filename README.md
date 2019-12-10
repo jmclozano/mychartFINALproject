@@ -40,6 +40,9 @@ Total district
 *Visualize user input into graph - possible button with drop-down to see different reference points of data
 
 Review youtube videos on chart.js
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/youtube.png)
+
+
 review sample code- 
 - https://vegibit.com/create-a-bar-chart-with-d3-javascript/
 - https://codepen.io/SitePoint/pen/Kpager
