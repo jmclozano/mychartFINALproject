@@ -15,9 +15,11 @@ Scenario: Director of Technology released a new product to the school district. 
 Goal: Data visualization - summarize the district’s activity on the release and usability of the tool in each school. 
 
 Inspiration: Dashboards
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%201.png)
 
 ![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%202.png)
+
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%201.png)
+
 
 # Design and Technical reference:
 Charts - (interactive)
