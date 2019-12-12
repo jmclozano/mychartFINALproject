@@ -83,7 +83,7 @@ This design focus was to provide a simple UI for sharing data via a html platfor
 
 _Read/Watch, Learn, Practice and Code!_ 
 
-**also, mastering the GitHub README.md page resource: https://guides.github.com/features/mastering-markdown
+:speech_balloon:**also, mastering the GitHub README.md page resource: https://guides.github.com/features/mastering-markdown
 was very helpful in creating this document. 
 
 Thank you! 
