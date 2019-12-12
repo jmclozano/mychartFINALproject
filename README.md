@@ -70,7 +70,7 @@ review sample code-
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20v3.png)
 
 
-## Version FINAL :pushpin:
+## Version FINAL :white_check_mark:
 
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20final.png)
 
@@ -83,7 +83,7 @@ This design focus was to provide a simple UI for sharing data via a html platfor
 
 _Read/Watch, Learn, Practice and Code!_ 
 
-:speech_balloon:**also, mastering the GitHub README.md page resource: https://guides.github.com/features/mastering-markdown
+:speech_balloon: _mastering the GitHub README.md page resource: https://guides.github.com/features/mastering-markdown
 was very helpful in creating this document. 
 
 Thank you! 
