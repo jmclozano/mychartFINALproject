@@ -61,6 +61,19 @@ Description
 buttons
 3 graphs
 
+##Version 1
+
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/charts%20v2.png)
+
+##Version 2
+
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20v3.png)
+
+
+##Version FINAL 
+
+![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20final.png)
+
 
 # Reflection:
 
