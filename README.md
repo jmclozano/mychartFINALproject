@@ -75,7 +75,7 @@ review sample code-
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20final.png)
 
 
-# Reflection:
+# Reflection: :pencil2:
 
 This project was a trial and error exploration in learning html, css, bootstrap, java script, chart.js, ATOM :atom: and Github. I enjoyed each layer of unraveling the code to create this project. WHile designing this project it helped to start with my outline of what I wanted to design as a final project. The initial layout design was simple. As I learned more about each piece of the project I began to visualize other elements I wanted to include in the design. This process of learning while creating assisted in establishing a comfort level in using the code and tools for the design. 
 
@@ -84,7 +84,7 @@ This design focus was to provide a simple UI for sharing data via a html platfor
 _Read/Watch, Learn, Practice and Code!_ 
 
 :speech_balloon: _mastering the GitHub README.md page resource: https://guides.github.com/features/mastering-markdown
-was very helpful in creating this document. 
+was very helpful in creating this document._
 
 Thank you! 
 _Jennifer_ jc5221
