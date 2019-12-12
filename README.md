@@ -34,14 +34,14 @@ Sample Chart.js ::
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/sample%20chart%20js.png)
 
 
-# Process:
-This is a new project. I will use this data to reflect the school’s implementation of the technology. (data) 
+# Process: :earth_americas:
+For this new project I will sample data to reflect the school’s implementation of the technology. (data) 
 
 Update HTML for meeting - drop-down menu 
 By school  (view Teachers and Grades by School using the technology
 Total district
 
-*Visualize user input into graph - possible button with drop-down to see different reference points of data
+*possible button with drop-down to see different delivery options
 
 Review youtube videos on chart.js
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/youtube.png)
@@ -65,7 +65,7 @@ review sample code-
 
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/charts%20v2.png)
 
-## Version 2 	:chart_with_downwards_trend:
+## Version 2 	:bar_chart: 
 
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20v3.png)
 
