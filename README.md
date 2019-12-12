@@ -14,9 +14,9 @@ Goal: Data visualization - summarize the district’s activity on the release an
 
 Inspiration: Dashboards
 
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%202.png)
+>![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%202.png)
 
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%201.png)
+>![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/inspiration%201.png)
 
 
 # Design and Technical reference:
@@ -24,14 +24,14 @@ Charts - (interactive)
 Bar Chart (#)
 #of teachers that have implemented the technology/schools in the district
 
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/code%20chart%20js.png)
+>![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/code%20chart%20js.png)
 
 Sample Chart.js :: 
-https://www.chartjs.org/samples/latest/charts/area/line-boundaries.html
-https://www.chartjs.org/samples/latest/charts/bar/vertical.html
+>https://www.chartjs.org/samples/latest/charts/area/line-boundaries.html
+>https://www.chartjs.org/samples/latest/charts/bar/vertical.html
 ***interactive charts***
 
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/sample%20chart%20js.png)
+>![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/sample%20chart%20js.png)
 
 
 # Process:
@@ -44,35 +44,39 @@ Total district
 *Visualize user input into graph - possible button with drop-down to see different reference points of data
 
 Review youtube videos on chart.js
-![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/youtube.png)
+>![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/youtube.png)
 
 
 review sample code- 
-- https://vegibit.com/create-a-bar-chart-with-d3-javascript/
-- https://codepen.io/SitePoint/pen/Kpager
-- https://codepen.io/BenShelton/pen/dNmWmG
-- https://github.com/generative-light/p5.scribble.js
+* https://vegibit.com/create-a-bar-chart-with-d3-javascript/
+* https://codepen.io/SitePoint/pen/Kpager
+* https://codepen.io/BenShelton/pen/dNmWmG
+* https://github.com/generative-light/p5.scribble.js
 
-Research data to use
-Outline html design (sample design) 
-Title 
-Headline of report
-Description 
-buttons
-3 graphs
+### Research and design plan
+* Outline html design (sample design) 
+* Title 
+* Headline of report
+* Description 
+* buttons
+* 3 graphs
 
-##Version 1
+## Version 1
 
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/charts%20v2.png)
 
-##Version 2
+## Version 2
 
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20v3.png)
 
 
-##Version FINAL 
+## Version FINAL 
 
 >![Image of Chart](https://jmclozano.github.io/mychartFINALproject/img/chart%20final.png)
+
+
+**also, matering the GitHub read.me page resource: https://guides.github.com/features/mastering-markdown
+was very helpful. 
 
 
 # Reflection:
