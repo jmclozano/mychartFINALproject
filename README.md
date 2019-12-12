@@ -87,5 +87,5 @@ _Read/Watch, Learn, Practice and Code!_
 was very helpful in creating this document. 
 
 Thank you! 
-_Jennifer_
+_Jennifer_ jc5221
 
